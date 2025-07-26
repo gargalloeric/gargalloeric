@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**gargalloeric/gargalloeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Eric**, a **Fullstack Engineer** based in Spain, passionate about building innovative digital products and exploring cutting-edge technologies.
 
-Here are some ideas to get you started:
+Sometimes I break things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Write robust code in **C#/.NET** and **Angular**.
+- Thrive where creativity and problem-solving are required (bonus points if caffeine is involved).
+
+### Currently Exploring
+- Dipping my toes into **Golang** and **Flutter**.
+- Always on the lookout for building amazing products.
+
+I'm driven by curiosity, continuous learning, and a desire to create impactful solutions.
+
+Let’s connect and build something amazing 😉!
