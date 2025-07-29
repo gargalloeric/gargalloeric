@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Eric**, a **Fullstack Engineer** based in Spain, passionate about building innovative digital products and exploring cutting-edge technologies.
+I'm **Eric**, a **Software Engineer** based in Spain, passionate about building innovative digital products and exploring cutting-edge technologies.
 
 Sometimes I break things.
 
