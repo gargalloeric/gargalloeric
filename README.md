@@ -9,7 +9,7 @@ Sometimes I break things.
 - Thrive where creativity and problem-solving are required (bonus points if caffeine is involved).
 
 ### Currently Exploring
-- Dipping my toes into **Golang** and **Flutter**.
+- Dipping my toes into **Golang** and **Kubernetes**.
 - Always on the lookout for building amazing products.
 
 I'm driven by curiosity, continuous learning, and a desire to create impactful solutions.
